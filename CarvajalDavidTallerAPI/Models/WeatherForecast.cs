@@ -1,4 +1,4 @@
-namespace CarvajalDavidTallerAPI
+namespace CarvajalDavidTallerAPI.Models
 {
     public class WeatherForecast
     {
