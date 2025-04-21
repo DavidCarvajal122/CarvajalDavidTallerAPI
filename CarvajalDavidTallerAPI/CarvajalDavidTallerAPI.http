@@ -1,0 +1,6 @@
+@CarvajalDavidTallerAPI_HostAddress = http://localhost:5043
+
+GET {{CarvajalDavidTallerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
